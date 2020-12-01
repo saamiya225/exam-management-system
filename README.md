@@ -1,15 +1,8 @@
-# Student Result Management System
+Steps for using this repository-
+> Install XAMP
+> Add the database file srms.sql
+> Run the website at http://localhost/srms/srms-master/
 
-video demo - https://youtu.be/tm0XTuFnzx8
 
-### How do I get set up? ###
-
-* Install XAMP
-* Add the database file 
-
-### contact ###
-projectworldsofficial@gmail.com
-
-more projects website - https://projectworlds.in
 
 
