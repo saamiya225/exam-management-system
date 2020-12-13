@@ -60,11 +60,11 @@
         <div class="main">
             <div class="s1">
                 <p>Subjects</p>
-                <p>Paper 1</p>
-                <p>Paper 2</p>
-                <p>Paper 3</p>
-                <p>Paper 4</p>
-                <p>Paper 5</p>
+                <p>Subject 1</p>
+                <p>Subject 2</p>
+                <p>Subject 3</p>
+                <p>Subject 4</p>
+                <p>Subject 5</p>
             </div>
             <div class="s2">
                 <p>Marks</p>
