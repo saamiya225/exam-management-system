@@ -73,11 +73,11 @@
                 ?>
 
                 <input type="text" name="rno" placeholder="Roll No">
-                <input type="text" name="p1" id="" placeholder="Paper 1">
-                <input type="text" name="p2" id="" placeholder="Paper 2">
-                <input type="text" name="p3" id="" placeholder="Paper 3">
-                <input type="text" name="p4" id="" placeholder="Paper 4">
-                <input type="text" name="p5" id="" placeholder="Paper 5">
+                <input type="text" name="p1" id="" placeholder="Subject 1">
+                <input type="text" name="p2" id="" placeholder="Subject 2">
+                <input type="text" name="p3" id="" placeholder="Subject 3">
+                <input type="text" name="p4" id="" placeholder="Subject 4">
+                <input type="text" name="p5" id="" placeholder="Subject 5">
                 <input type="submit" value="Submit">
             </fieldset>
         </form>
