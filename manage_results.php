@@ -101,7 +101,7 @@
     </div>
 
     <!-- <div class="footer">
-        <span>Designed & Coded By Jibin Thomas</span>
+         <span>Saamiya Newrekar | Tanya Shrivastava | Kushagra Soni </span>
     </div> -->
     
 </body>
